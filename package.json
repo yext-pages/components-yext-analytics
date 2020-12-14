@@ -1,0 +1,14 @@
+{
+  "name": "components-yext-analytics",
+  "version": "1.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yext-pages/components-yext-analytics.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@babel/polyfill": "7.2.5",
+    "@babel/runtime": "7.8.4",
+    "slugify": "1.2.1"
+  }
+}
